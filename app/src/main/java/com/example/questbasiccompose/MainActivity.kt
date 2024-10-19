@@ -95,6 +95,9 @@ fun BasicCompose(
         Image(
             painter = painterResource(id = R.drawable.nabigh),
             contentDescription = null,
+            modifier = Modifier
+                .height(500.dp)
+                .clip(CircleShape)
         )
 
     }
