@@ -92,7 +92,10 @@ fun BasicCompose(
             fontSize = 50.sp
         )
 
-
+        Image(
+            painter = painterResource(id = R.drawable.nabigh),
+            contentDescription = null,
+        )
 
     }
 }
