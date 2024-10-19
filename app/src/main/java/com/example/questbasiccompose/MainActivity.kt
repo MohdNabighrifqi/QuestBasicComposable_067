@@ -68,7 +68,11 @@ fun BasicCompose(
         Image(
             painter = painterResource(id = R.drawable.umy),
             contentDescription = null,
-
+            modifier = Modifier
+                .size(250.dp)
         )
+
+
+
     }
 }
