@@ -62,7 +62,7 @@ fun BasicCompose(
 
         Text(
             text = "Ini adalah halaman login",
-
+            fontSize = 25.sp
         )
 
 
