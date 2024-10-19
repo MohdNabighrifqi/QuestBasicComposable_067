@@ -72,6 +72,11 @@ fun BasicCompose(
                 .size(250.dp)
         )
 
+        Text(
+            text = "Nama",
+
+        )
+
 
 
     }
