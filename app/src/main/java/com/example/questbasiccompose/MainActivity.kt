@@ -78,6 +78,10 @@ fun BasicCompose(
             fontSize = 25.sp
         )
 
+        Text(
+            text = "Mohd Nabigh Rifqi",
+        )
+
 
 
     }
