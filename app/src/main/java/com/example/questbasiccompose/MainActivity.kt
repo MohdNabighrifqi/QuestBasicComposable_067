@@ -80,6 +80,11 @@ fun BasicCompose(
 
         Text(
             text = "Mohd Nabigh Rifqi",
+            style = androidx.compose.ui.text.TextStyle(
+                fontWeight = FontWeight.Bold,
+                fontSize = 15.sp,
+                color = Color.Red
+            )
         )
 
 
