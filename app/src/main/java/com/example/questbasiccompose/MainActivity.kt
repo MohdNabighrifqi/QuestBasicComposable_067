@@ -50,7 +50,12 @@ fun BasicCompose(
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.spacedBy(2.dp),
-        modifier = modifier.fillMaxSize()
-    )
+        modifier = modifier
+            .fillMaxSize()
 
+    ) {
+        Text(
+            text = "Login"
+        )
+    }
 }
