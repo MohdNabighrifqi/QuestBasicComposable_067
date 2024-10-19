@@ -74,7 +74,8 @@ fun BasicCompose(
 
         Text(
             text = "Nama",
-
+            fontWeight = FontWeight.Bold,
+            fontSize = 25.sp
         )
 
 
