@@ -59,5 +59,13 @@ fun BasicCompose(
             fontSize = 50.sp,
             fontWeight = FontWeight.Bold
         )
+
+        Text(
+            text = "Ini adalah halaman login",
+
+        )
+
+
+
     }
 }
