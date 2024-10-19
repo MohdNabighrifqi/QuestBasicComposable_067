@@ -89,7 +89,7 @@ fun BasicCompose(
 
         Text(
             text = "20220140067",
-
+            fontSize = 50.sp
         )
 
 
